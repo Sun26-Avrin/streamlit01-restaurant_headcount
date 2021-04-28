@@ -55,7 +55,7 @@ def main():
   col1, col3 = st.beta_columns([2.5,1])
   
   # 이미지
-  #col3.image('../logo_final.png', width=180)
+  col3.image('logo_final.png', width=180)
   
   # 폰트스타일
   st.markdown("""
@@ -100,7 +100,7 @@ def main():
   
   
 
-  df_pro = pd.read_csv("../Dure_train_data_210123.csv",index_col=0)
+  df_pro = pd.read_csv("Dure_train_data_210123.csv",index_col=0)
   #drop = ['중식 인원','년']
 
 
@@ -114,7 +114,7 @@ def main():
 
 
   cont = '어제 코로나 대구확진자 수 : '+str(corona_cnt)
-  st.sidebar.image('../dure_logo.png',width=150)
+  st.sidebar.image('dure_logo.png',width=150)
   
   st.sidebar.write('')
   st.sidebar.write('')
@@ -238,7 +238,7 @@ def main():
 
 
     from tensorflow import keras 
-    model = keras.models.load_model("../model.h5")
+    model = keras.models.load_model("model.h5")
 
     
 
