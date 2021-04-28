@@ -55,8 +55,7 @@ def main():
   col1, col3 = st.beta_columns([2.5,1])
   
   # 이미지
-  col3.image('../logo_final.png',
-            width=180)
+  #col3.image('../logo_final.png', width=180)
   
   # 폰트스타일
   st.markdown("""
