@@ -1,7 +1,7 @@
 # App 주소
 + https://share.streamlit.io/sun26-avrin/streamlit01-restaurant_headcount/DureBiang_Streamlit.py
 
-
+---
 # local 실행기반환경
 1. tensorflow 2.4.0 & python 3.7 버전 & python streamlit 라이브러리 필요
 
