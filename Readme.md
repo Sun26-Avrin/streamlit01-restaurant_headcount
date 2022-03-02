@@ -1,5 +1,5 @@
 # App 주소
-+ https://share.streamlit.io/sun26-avrin/streamlit01-restaurant_headcount/DureBiang_Streamlit.py
++ [두레비앙 중식 ](https://share.streamlit.io/sun26-avrin/streamlit01-restaurant_headcount/DureBiang_Streamlit.py)
 
 ---
 ### local 환경에서 실행 시
