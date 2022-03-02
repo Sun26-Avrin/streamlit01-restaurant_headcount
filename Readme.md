@@ -2,6 +2,13 @@
 + [두레비앙 중식 식수인원 예측 ](https://share.streamlit.io/sun26-avrin/streamlit01-restaurant_headcount/DureBiang_Streamlit.py)
 
 ---
+### 구현기술스택
++ Python / Pandas / Numpy
++ Streamlit
++ Tensorflow
++ ngrok
++ XAMPP
+
 ### local 환경에서 실행 시
 1. tensorflow 2.4.0 & python 3.7 버전 & python streamlit 라이브러리 필요
 
