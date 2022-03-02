@@ -1,5 +1,5 @@
-# App 주소
-+ [두레비앙 중식 식수인원 예측 ](https://share.streamlit.io/sun26-avrin/streamlit01-restaurant_headcount/DureBiang_Streamlit.py)
+# [두레비앙 중식 식수인원 예측 ](https://share.streamlit.io/sun26-avrin/streamlit01-restaurant_headcount/DureBiang_Streamlit.py)
+
 
 ### 구현기술스택
 + Python / Pandas / Numpy
